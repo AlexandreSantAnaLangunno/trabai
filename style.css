@@ -1,0 +1,63 @@
+*{
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: #94F2B3; */
+    background-image: url("https://th.bing.com/th/id/R368cab6215ff809bdfc71619717e80e0?rik=LLYvjzAnAkKFkg&riu=http%3a%2f%2fcabana-on.com%2fWallpaper%2fwp-content%2fuploads%2f2016%2f03%2fNatureza-Dimens%c3%b5es-1360x768115.jpeg&ehk=txjYl0NJDz4EGP%2fiJGBRaW1FTZFQuduzlCDLit2th%2b4%3d&risl=&pid=ImgRaw&adlt=strict");
+    background-size: 200%;
+    color: #447053;
+}
+
+header{
+    background-color: rgba(255, 255, 255, 0.589);
+}
+
+#subthemes{
+    text-align: left;
+    margin-left: 20px;
+    background-color: #91daa996;
+    width: 80px;
+}
+
+.secaum{
+    display: grid;
+    border-radius: 15px;
+    background-color: #4BF083;
+    margin: auto;
+}
+.marginn{
+    margin: 20px;
+}
+
+button{
+    transition: 1s;
+    border-radius: 25px;
+    background-color: #45da77;
+} 
+button:hover{
+    transition: 2s;
+    box-shadow: 2px 3px 5px #447053;
+}
+
+a{
+    text-decoration: none;
+    color: #447053;
+}
+
+
+/* Colors
+
+
+#23703D
+#94F2B3
+#4BF083
+#447053
+#3ABD66
+
+
+*/
